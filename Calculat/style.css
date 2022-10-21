@@ -1,0 +1,294 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+    }
+    
+    
+    .bor{
+        border-style: ridge;
+        border-radius: 30px;
+        border-color:white;
+        position: absolute;
+        left:11.4cm;
+        top:3.4cm ;
+        width:14cm;
+        height:14cm;
+    }
+    .ca{
+        color: rgb(255, 255, 255);
+        position: absolute;
+        left:458px;
+        top:140px;
+        font-size: 25px;
+    }
+    .text{
+        color:white;
+        font-size:20px;
+        background-color: rgba(0, 0, 0, 0);
+        border-radius:18px;
+        border-color:white;
+        position: absolute;
+        left:462px;
+        top:198px;
+        width: 6cm;
+        height:1.5cm;
+    }
+    .cl{
+        border-radius: 500px;
+        border-color: rgb(0, 0, 0);
+        color: rgb(255, 255, 255);
+        position: absolute;
+        top:198px;
+        left:824px;
+        width: 3cm;
+        height:1.5cm;
+        background-color:rgba(68, 65, 65, 0.747);;
+        cursor: auto;
+        
+        
+    
+    }
+    .del{
+        border-radius: 500px;
+        border-color: rgb(0, 0, 0);
+        color: rgb(255, 255, 255);
+        position: absolute;
+        top:198px;
+        left:702px;
+        width: 3cm;
+        height:1.5cm;
+        background-color:rgba(68, 65, 65, 0.747);;
+        cursor: auto;
+        
+        
+    
+    }
+    .one{
+        color:rgb(255, 255, 255);
+        background-color:rgba(68, 65, 65, 0.747);
+        border-radius:260px ;
+        border-color: rgb(0, 0, 0);
+        position: absolute;
+        width:3cm;
+        height: 2cm;
+        left:458px;
+        top:265px;
+    }
+    .tow{
+        color:rgb(255, 255, 255);
+        background-color:rgba(68, 65, 65, 0.747);
+        border-radius: 260px;
+        border-color: black;
+        position: absolute;
+        width:3cm;
+        height: 2cm;
+        left:580px;
+        top:265px;
+    }
+    .three{
+        color:rgb(255, 255, 255);
+        background-color:rgba(68, 65, 65, 0.747);
+        border-radius: 260px;
+        border-color: black;
+        position: absolute;
+        width:3cm;
+        height: 2cm;
+        left:702px;
+        top:265px;
+    }
+    .plus{
+        font-size: 20px;
+        color:rgb(255, 255, 255);
+        background-color:rgba(68, 65, 65, 0.747);
+        border-radius: 260px;
+        border-color: black;
+        position: absolute;
+        width:3cm;
+        height: 2cm;
+        left:824px;
+        top:265px;
+    }
+    .fore{
+        color:rgb(255, 255, 255);
+        background-color:rgba(68, 65, 65, 0.747);
+        border-radius: 260px;
+        border-color: black;
+        position: absolute;
+        width:3cm;
+        height: 2cm;
+        left:458px;
+        top:350px;
+    }
+    .five{
+        color:rgb(255, 255, 255);
+        background-color:rgba(68, 65, 65, 0.747);
+        border-radius: 260px;
+        border-color: black;
+        position: absolute;
+        width:3cm;
+        height: 2cm;
+        left:580px;
+        top:350px;
+    }
+    .six{
+        color:rgb(255, 255, 255);
+        background-color:rgba(68, 65, 65, 0.747);
+        border-radius: 260px;
+        border-color: rgb(0, 0, 0);
+        position: absolute;
+        width:3cm;
+        height: 2cm;
+        left:702px;
+        top:350px;
+    }
+    .min{
+        font-size: 25px;
+        color:rgb(255, 255, 255);
+        background-color:rgba(68, 65, 65, 0.747);
+        border-radius: 260px;
+        border-color: rgb(0, 0, 0);
+        position: absolute;
+        width:3cm;
+        height: 2cm;
+        left:824px;
+        top:350px;
+    }
+    .seven{
+        color:rgb(255, 255, 255);
+        background-color:rgba(68, 65, 65, 0.747);
+        border-radius: 260px;
+        border-color: rgb(0, 0, 0);
+        position: absolute;
+        width:3cm;
+        height: 2cm;
+        left:458px;
+        top:435px;
+    }
+    .aite{
+        color:rgb(255, 255, 255);
+        background-color:rgba(68, 65, 65, 0.747);
+        border-radius: 260px;
+        border-color: rgb(0, 0, 0);
+        position: absolute;
+        width:3cm;
+        height: 2cm;
+        left:580px;
+        top:435px;
+    }
+    .nine{
+        color:rgb(255, 255, 255);
+        background-color:rgba(68, 65, 65, 0.747);
+        border-radius: 260px;
+        border-color: rgb(0, 0, 0);
+        position: absolute;
+        width:3cm;
+        height: 2cm;
+        left:702px;
+        top:435px;
+    }
+    .drb{
+        font-size: 25px;
+        color:rgb(255, 255, 255);
+        background-color:rgba(68, 65, 65, 0.747);
+        border-radius: 260px;
+        border-color: rgb(0, 0, 0);
+        position: absolute;
+        width:3cm;
+        height: 2cm;
+        left:824px;
+        top:435px;
+    }
+    .zero{
+        color:rgb(255, 255, 255);
+        background-color:rgba(68, 65, 65, 0.747);
+        border-radius: 260px;
+        border-color: rgb(0, 0, 0);
+        position: absolute;
+        width:3cm;
+        height: 2cm;
+        left:458px;
+        top:520px;
+    }
+    .dot{
+        font-size: 40px;
+        color:rgb(255, 255, 255);
+        background-color:rgba(68, 65, 65, 0.747);
+        border-radius: 260px;
+        border-color: rgb(0, 0, 0);
+        position: absolute;
+        width:3cm;
+        height: 2cm;
+        left:580px;
+        top:520px;
+    }
+    .clc{
+        font-size: 25px;
+        color:rgb(255, 255, 255);
+        background-color:rgba(68, 65, 65, 0.747);
+        border-radius: 260px;
+        border-color: rgb(0, 0, 0);
+        position: absolute;
+        width:3cm;
+        height: 2cm;
+        left:702px;
+        top:520px;
+    }
+    .eval{
+        font-size: 25px;
+        color:rgb(255, 255, 255);
+        background-color: rgb(255, 72, 102);
+        border-radius: 260px;
+        border-color: rgb(0, 0, 0);
+        position: absolute;
+        width:3cm;
+        height: 2cm;
+        left:824px;
+        top:520px;
+    }
+    
+
+        
+    .ad{
+        position:absolute;
+        width: 3cm;
+        height: 3cm;
+        top: -0.48cm;
+        left: 19.8cm;
+    }
+    .face{
+        text-decoration: none;
+        position: absolute;
+        height: 0.8cm;
+        width: 0.8cm;
+        top: 1.2cm;
+        left:35.3cm;
+    }
+    .ins{
+        position: absolute;
+        width: 0.9cm;
+        height: 0.9cm;
+        top: 0.6cm;
+        left: 17.17cm;
+    }
+    .sochial{
+        position: absolute;
+        left: 3.35cm;
+        top: 2.2cm;
+    }
+    button:active{
+        background-color: rgba(206, 219, 205, 0.747);
+    }
+
+    
+    input:active{
+        background-color: rgba(206, 219, 205, 0.747);
+    }
